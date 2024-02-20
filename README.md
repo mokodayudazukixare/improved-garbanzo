@@ -1,4 +1,4 @@
-# improved-garbanzo
+# improved-garbanzo game
 do cqeg
 ontrib
 
